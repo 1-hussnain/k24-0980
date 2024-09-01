@@ -8,7 +8,6 @@ Hello! I'm **Hussnain Ayaz**, currently doing **Bachelor of Science in Computer 
 - 🎓 Currently studying:
   - Computer Science at **FAST NUCES Karachi**
   - ![IMG-20240831-WA0026](https://github.com/user-attachments/assets/9414a444-22a6-4ab5-bb64-b4c11128959d)
-    *Image of FAST NU Karachi Campus*
 
 - **💡 Interests:**
   - **🏋️‍♂️ Fitness:** Passionate about going to the gym and maintaining a healthy lifestyle.
