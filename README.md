@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm **Hussnain Ayaz**, currently doing **Bachelor of Science in Computer Science** from **FAST NUCES**. Here’s a little bit about me:
+Hello! I'm **Hussnain Ayaz**, currently pursuing a ** Bachelor's Degree in Computer Science** from **FAST NUCES**. Here’s a little bit about me:
 
 - 📚 Education:
   - Completed A-levels as a private candidate
